@@ -6,4 +6,4 @@
 2. Problem 24 surprised me with a gold string because I was trying to minimize it rather than sticking with the simple solution. The next state I didn't account
    for was in checking for even or odd 0's, since the loop I made there allowed it to accept any string that began with any number of 0s, so long as it ended with
    a 1 in the case of the number of 0's being even. I can avoid such errors by just sticking with the simple solution rather than trying to get fancy with it.
-3. No additional comments.
+3. This repo was written by Ewan Scott. I used my existing GitHub account on my normal email rather than creating a new one.
